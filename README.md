@@ -30,3 +30,9 @@ This project implements real-time vehicle detection and counting using the power
 ![image](https://github.com/aniksam-github/Vehicle-Detecting-Counting-using-YOLOV8model/assets/105125338/7601cae0-cc1b-481e-ad6a-9c7046098316)
 ![image](https://github.com/aniksam-github/Vehicle-Detecting-Counting-using-YOLOV8model/assets/105125338/87ea0533-7357-40d6-a9f4-13c68a36cc81)
 ![image](https://github.com/aniksam-github/Vehicle-Detecting-Counting-using-YOLOV8model/assets/105125338/6fca2193-cacd-48f5-a092-9769d1413919)
+
+
+### for reference please checkout https://drive.google.com/drive/folders/1UAYQnTPNozcY9n9vItF6cpaBYpJcAiPC?usp=drive_link
+
+also please send a mail so that i give the access of it - aniksam2000@outlook.com
+
