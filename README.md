@@ -22,3 +22,11 @@ This project implements real-time vehicle detection and counting using the power
 * Traffic flow analysis in urban environments
 * Smart parking management systems
 * Toll booth automation
+
+
+![image](https://github.com/aniksam-github/Vehicle-Detecting-Counting-using-YOLOV8model/assets/105125338/2764b372-03e5-480d-bfa6-311fdb674bef)
+![image](https://github.com/aniksam-github/Vehicle-Detecting-Counting-using-YOLOV8model/assets/105125338/21c37469-8e29-4c68-b7c1-420244201def)
+![image](https://github.com/aniksam-github/Vehicle-Detecting-Counting-using-YOLOV8model/assets/105125338/6e7b80bc-734c-4e37-bf8e-9db1c2a6eeb9)
+![image](https://github.com/aniksam-github/Vehicle-Detecting-Counting-using-YOLOV8model/assets/105125338/7601cae0-cc1b-481e-ad6a-9c7046098316)
+![image](https://github.com/aniksam-github/Vehicle-Detecting-Counting-using-YOLOV8model/assets/105125338/87ea0533-7357-40d6-a9f4-13c68a36cc81)
+![image](https://github.com/aniksam-github/Vehicle-Detecting-Counting-using-YOLOV8model/assets/105125338/6fca2193-cacd-48f5-a092-9769d1413919)
